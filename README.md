@@ -1,6 +1,9 @@
 # Just a quick bat file for the wsdl file generation 
 
+## USAGE
 
+wsdlGen YourXMLFileINXMLFolder nameOfJar.jar 
+ 
 https://mvnrepository.com/artifact/com.force.api/force-wsc/47.0.0
 
 
