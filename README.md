@@ -1,5 +1,7 @@
 # Just a quick bat file for the wsdl file generation 
 
+I kept forgetting how to convert a salesforce enterprise wsdl so made this to make it easier.
+
 ## USAGE
 
 wsdlGen YourXMLFileINXMLFolder nameOfJar.jar 
